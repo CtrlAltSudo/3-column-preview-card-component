@@ -1,0 +1,19 @@
+#mainContainer {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.secondaryContainer {
+    color: white;
+}
+
+.secondaryContainer:nth-of-type(1) {
+    background-color: #e38525;
+}
+.secondaryContainer:nth-of-type(2) {
+    background-color: #016871;
+}
+.secondaryContainer:nth-of-type(3) {
+    background-color: #003f3e;
+}
