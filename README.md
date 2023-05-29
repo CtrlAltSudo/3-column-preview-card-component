@@ -1,6 +1,6 @@
 <h1 align="center">3-column preview card component</h1>
-<p align="center"> <a align="center" href="https://github.com/CtrlAltSudo/3-column-preview-card-component">Live Demo</a><p>
-<p align="center"> <a align="center" href="https://www.frontendmentor.io/solutions/product-preview-card-component-I2MQmRTOpy">Solution Page</a><p>
+<p align="center"> <a align="center" href="https://ctrlaltsudo.github.io/3-column-preview-card-component/">Live Demo</a><p>
+<p align="center"> <a align="center" href="https://www.frontendmentor.io/solutions/3columnpreviewcardcomponent-q70wqDuR0-">Solution Page</a><p>
 <h2 align="center">Project Screenshot<h2>
 <p align="center">
   <img src="./images/screenshot.png"></img>
