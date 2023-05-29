@@ -6,6 +6,8 @@
 }
 .secondaryContainer {
     color: white;
+    padding: 2rem;
+    max-width: 10rem;
 }
 
 .secondaryContainer:nth-of-type(1) {
@@ -16,4 +18,9 @@
 }
 .secondaryContainer:nth-of-type(3) {
     background-color: #003f3e;
+}
+button {
+    border: none;
+    border-radius: 0.5rem;
+    padding: 8px 15px 8px 15px
 }
